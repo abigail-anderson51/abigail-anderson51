@@ -37,41 +37,41 @@
   </g>
 
   <!-- Pill -->
-  <rect x="48" y="34" width="545" height="34" rx="17" fill="#0ea5e9" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.65" stroke-width="1.5"/>
-  <circle cx="70" cy="51" r="5.5" fill="#34d399"/>
-  <text x="86" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="600" fill="#bae6fd" letter-spacing="0.8">ENTERPRISE MULTIMODAL AI GATEWAY &amp; INFINITE CANVAS</text>
+  <rect x="44" y="34" width="545" height="34" rx="17" fill="#0ea5e9" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.65" stroke-width="1.5"/>
+  <circle cx="66" cy="51" r="5.5" fill="#34d399"/>
+  <text x="82" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="600" fill="#bae6fd" letter-spacing="0.8">ENTERPRISE MULTIMODAL AI GATEWAY &amp; INFINITE CANVAS</text>
 
   <!-- Brand Headline -->
-  <text x="48" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#f8fafc">OairegBox AI Studio</text>
-  <text x="48" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="url(#pgrad)">One Unified API Key · 100+ Flagship Video, Image, Audio &amp; LLM Models</text>
+  <text x="44" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#f8fafc">OairegBox AI Studio</text>
+  <text x="44" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22.5" font-weight="700" fill="url(#pgrad)">One Unified API Key · 100+ Video, Image, Audio &amp; LLM Models</text>
 
-  <text x="48" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#cbd5e1">Meta Muse  •  Seedance 2.5  •  Google Veo 3.1 &amp; Omni  •  Kling 3.0  •  Wan 3.0  •  GPT-Image 2.5  •  Claude / Gemini / DeepSeek</text>
+  <text x="44" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">Meta Muse  •  Seedance 2.5  •  Veo 3.1 &amp; Omni  •  Kling 3.0  •  Wan 3.0  •  GPT-Image 2.5  •  Claude / Gemini</text>
 
   <!-- Feature Chips -->
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600">
-    <rect x="48" y="236" width="178" height="34" rx="9" fill="#0ea5e9" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1.5"/>
-    <text x="64" y="258" fill="#e0f2fe">OpenAI Compatible</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600">
+    <rect x="44" y="234" width="174" height="34" rx="9" fill="#0ea5e9" fill-opacity="0.15" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="60" y="256" fill="#e0f2fe">OpenAI Compatible</text>
 
-    <rect x="238" y="236" width="182" height="34" rx="9" fill="#8b5cf6" fill-opacity="0.15" stroke="#a78bfa" stroke-width="1.5"/>
-    <text x="254" y="258" fill="#ede9fe">Audio On · Clean MP4</text>
+    <rect x="230" y="234" width="178" height="34" rx="9" fill="#8b5cf6" fill-opacity="0.15" stroke="#a78bfa" stroke-width="1.5"/>
+    <text x="246" y="256" fill="#ede9fe">Audio On · Clean MP4</text>
 
-    <rect x="432" y="236" width="186" height="34" rx="9" fill="#10b981" fill-opacity="0.15" stroke="#34d399" stroke-width="1.5"/>
-    <text x="448" y="258" fill="#d1fae5">100% Failure Refund</text>
+    <rect x="420" y="234" width="182" height="34" rx="9" fill="#10b981" fill-opacity="0.15" stroke="#34d399" stroke-width="1.5"/>
+    <text x="436" y="256" fill="#d1fae5">100% Failure Refund</text>
 
-    <rect x="630" y="236" width="188" height="34" rx="9" fill="#f59e0b" fill-opacity="0.15" stroke="#fbbf24" stroke-width="1.5"/>
-    <text x="646" y="258" fill="#fef3c7">EU + US Dual Ingress</text>
+    <rect x="614" y="234" width="184" height="34" rx="9" fill="#f59e0b" fill-opacity="0.15" stroke="#fbbf24" stroke-width="1.5"/>
+    <text x="630" y="256" fill="#fef3c7">EU + US Dual Ingress</text>
   </g>
 
-  <text x="48" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#94a3b8">
-    Console: <tspan fill="#38bdf8" font-weight="600">api.oairegbox.cc</tspan>  |  Studio: <tspan fill="#a78bfa" font-weight="600">api.oairegbox.cc/studio/</tspan>  |  Docs: <tspan fill="#34d399" font-weight="600">docs.oairegbox.cc</tspan>  |  WeChat: <tspan fill="#f8fafc" font-weight="700">OairegBox_api</tspan>
+  <text x="44" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94a3b8">
+    API: <tspan fill="#38bdf8" font-weight="600">api.oairegbox.cc</tspan>  |  Canvas: <tspan fill="#a78bfa" font-weight="600">api.oairegbox.cc/studio/</tspan>  |  Docs: <tspan fill="#34d399" font-weight="600">docs.oairegbox.cc</tspan>
   </text>
 
   <!-- Right Stats Card -->
-  <rect x="900" y="38" width="254" height="264" rx="18" fill="#090e1c" fill-opacity="0.9" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="1.8"/>
-  <text x="926" y="72" font-family="ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#38bdf8">PLATFORM HIGHLIGHTS</text>
-  <text x="926" y="114" font-family="-apple-system, sans-serif" font-size="28" font-weight="800" fill="#f8fafc">100+ <tspan font-size="14" font-weight="500" fill="#94a3b8">Flagship Models</tspan></text>
-  <text x="926" y="160" font-family="-apple-system, sans-serif" font-size="28" font-weight="800" fill="#a78bfa">/studio/ <tspan font-size="14" font-weight="500" fill="#94a3b8">Infinite Canvas</tspan></text>
-  <text x="926" y="206" font-family="-apple-system, sans-serif" font-size="28" font-weight="800" fill="#34d399">¥0 Mock <tspan font-size="14" font-weight="500" fill="#94a3b8">6-Lang Debug</tspan></text>
-  <text x="926" y="252" font-family="-apple-system, sans-serif" font-size="24" font-weight="800" fill="#fbbf24">Zero Watermark</text>
-  <text x="926" y="280" font-family="ui-monospace, Menlo, monospace" font-size="12" fill="#94a3b8">Enterprise SLA &amp; Custom Quota</text>
+  <rect x="912" y="34" width="244" height="272" rx="18" fill="#090e1c" fill-opacity="0.92" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="1.8"/>
+  <text x="936" y="68" font-family="ui-monospace, Menlo, monospace" font-size="12.5" font-weight="700" fill="#38bdf8">PLATFORM HIGHLIGHTS</text>
+  <text x="936" y="110" font-family="-apple-system, sans-serif" font-size="26" font-weight="800" fill="#f8fafc">100+ <tspan font-size="13.5" font-weight="500" fill="#94a3b8">Models</tspan></text>
+  <text x="936" y="154" font-family="-apple-system, sans-serif" font-size="26" font-weight="800" fill="#a78bfa">/studio/ <tspan font-size="13.5" font-weight="500" fill="#94a3b8">Canvas</tspan></text>
+  <text x="936" y="198" font-family="-apple-system, sans-serif" font-size="26" font-weight="800" fill="#34d399">¥0 Mock <tspan font-size="13.5" font-weight="500" fill="#94a3b8">Debug</tspan></text>
+  <text x="936" y="242" font-family="-apple-system, sans-serif" font-size="22" font-weight="800" fill="#fbbf24">Zero Watermark</text>
+  <text x="936" y="280" font-family="ui-monospace, Menlo, monospace" font-size="12.5" fill="#cbd5e1">WeChat: <tspan fill="#34d399" font-weight="700">OairegBox_api</tspan></text>
 </svg>
